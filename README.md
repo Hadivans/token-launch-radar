@@ -40,8 +40,7 @@ Then open `out/dashboard/index.html` in a browser (it reads `out/data.js` beside
 
 ## make.fun
 
-[![make.fun](https://make.fun/badge.svg)](https://make.fun/r/{referral_code})
+[![make.fun](https://make.fun/badge.svg)](https://make.fun/r/6ftj8n6s)
 
 Built for the make.fun token-radar-01 competition. Sign up with my referral link:
-https://make.fun/r/{referral_code} — replace `{referral_code}` with the entrant's code
-(see `GET /api/me/referrals`).
+https://make.fun/r/6ftj8n6s
